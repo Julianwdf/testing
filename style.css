@@ -5,3 +5,24 @@ h1{
   font-weight: 300;
   color: blue;
 }
+
+
+h2{
+  color:aqua;
+  font-size: 30px;
+}
+
+img {
+  border-radius:50%
+}
+
+li{
+  color:blue;
+  text-decoration:brown;
+}
+
+a:hover{
+  color:chartreuse;
+  background-color:orangered;
+  font-size: 50px;
+}
