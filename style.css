@@ -4,6 +4,7 @@ h1{
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: blue;
+  text-align: center;
 }
 
 
@@ -25,4 +26,18 @@ a:hover{
   color:chartreuse;
   background-color:orangered;
   font-size: 50px;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  max-width:500px;
+  margin:auto;
+  text-align:center;
+}
+
+ul {
+  text-align: center;
+  list-style: inside;
 }
