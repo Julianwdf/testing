@@ -17,7 +17,8 @@ img {
   border-radius:50%
 }
 
-li{
+ul{
+  list-style-position: inside;
   color:blue;
   text-decoration:brown;
 }
@@ -28,12 +29,16 @@ a:hover{
   font-size: 50px;
 }
 
-.card {
-  box-shadow 0 5 5;
+.card{
+  width: 500px;
+  box-shadow: 5px 5px 5px rgb(158, 158, 158);
   border-radius: 4px;
-}
-
-ul {
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
   text-align: center;
-  list-style: inside;
+  margin: 15px 0;
+  margin-left: auto;
+  margin-right: auto;
+
 }
