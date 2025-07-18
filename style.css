@@ -13,8 +13,8 @@ h2{
   font-size: 30px;
 }
 
-img {
-  border-radius:50%
+#profile img{
+  border-radius:50%;
 }
 
 ul{
@@ -47,4 +47,10 @@ a:hover{
   font-size:small;
   font-family: 'Open Sans', sans-serif;
   color:rgb(245, 8, 194)
+}
+
+.hero-image img{
+  width:100%;
+  height: auto;
+  display: block;
 }
