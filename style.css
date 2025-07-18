@@ -42,3 +42,9 @@ a:hover{
   margin-right: auto;
 
 }
+
+#intro{
+  font-size:small;
+  font-family: 'Open Sans', sans-serif;
+  color:rgb(245, 8, 194)
+}
